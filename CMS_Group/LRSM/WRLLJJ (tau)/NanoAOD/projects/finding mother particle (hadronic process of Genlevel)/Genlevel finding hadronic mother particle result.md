@@ -1,0 +1,185 @@
+>일부만 가져옴 
+
+![[job0.out]]
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+  Particle PDG ID: Down_quark
+  Particle PDG ID: Up_antiquark
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Charm_quark
+  Particle PDG ID: Strange_antiquark
+Particle PDG ID: Up_antiquark
+  Particle PDG ID: W_prime_antiboson
+Particle PDG ID: W_prime_antiboson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Up_quark
+  Particle PDG ID: Down_antiquark
+Particle PDG ID: Up_antiquark
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Charm_quark
+  Particle PDG ID: Strange_antiquark
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+    Particle PDG ID: Tau_antilepton
+    Particle PDG ID: Strange_quark
+    Particle PDG ID: Charm_antiquark
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Down_quark
+  Particle PDG ID: W_prime_antiboson
+Particle PDG ID: W_prime_antiboson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Charm_quark
+  Particle PDG ID: Strange_antiquark
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+  Particle PDG ID: Down_quark
+  Particle PDG ID: Up_antiquark
+Particle PDG ID: Down_antiquark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+    Particle PDG ID: Tau_lepton
+    Particle PDG ID: Up_quark
+    Particle PDG ID: Down_antiquark
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Down_antiquark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+  Particle PDG ID: Down_quark
+  Particle PDG ID: Up_antiquark
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+    Particle PDG ID: Tau_antilepton
+    Particle PDG ID: Down_quark
+    Particle PDG ID: Up_antiquark
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Charm_quark
+  Particle PDG ID: Strange_antiquark
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+  Particle PDG ID: Strange_quark
+  Particle PDG ID: Charm_antiquark
+Particle PDG ID: Down_antiquark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+    Particle PDG ID: Tau_lepton
+    Particle PDG ID: Up_quark
+    Particle PDG ID: Down_antiquark
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Up_antiquark
+  Particle PDG ID: W_prime_antiboson
+Particle PDG ID: W_prime_antiboson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Charm_quark
+  Particle PDG ID: Strange_antiquark
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Up_quark
+  Particle PDG ID: Down_antiquark
+Particle PDG ID: Down_quark
+  Particle PDG ID: W_prime_antiboson
+Particle PDG ID: W_prime_antiboson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Up_quark
+  Particle PDG ID: Down_antiquark
+Particle PDG ID: Down_antiquark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+  Particle PDG ID: Strange_quark
+  Particle PDG ID: Charm_antiquark
+Particle PDG ID: Up_quark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+  Particle PDG ID: Down_quark
+  Particle PDG ID: Up_antiquark
+Particle PDG ID: Down_antiquark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Up_quark
+  Particle PDG ID: Down_antiquark
+Particle PDG ID: Up_antiquark
+  Particle PDG ID: W_prime_antiboson
+Particle PDG ID: W_prime_antiboson
+  Particle PDG ID: Heavy_neutrino
+    Particle PDG ID: Tau_antilepton
+    Particle PDG ID: Down_quark
+    Particle PDG ID: Up_antiquark
+  Particle PDG ID: Tau_lepton
+Particle PDG ID: Down_antiquark
+  Particle PDG ID: W_prime_boson
+Particle PDG ID: W_prime_boson
+  Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_antilepton
+Particle PDG ID: Heavy_neutrino
+  Particle PDG ID: Tau_lepton
+  Particle PDG ID: Charm_quark
+  Particle PDG ID: Strange_antiquark
